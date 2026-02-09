@@ -1,6 +1,6 @@
 # UTN - Prácticas C++
 
-Ejercicios y apuntes de C++ (UTN) – Unidad 2.
+Ejercicios y apuntes de C++ (UTN/ Universidad Tecnologica Nacional) – Unidad 2.
 
 ## Contenido
 - Recursividad
